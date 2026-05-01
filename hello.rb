@@ -1,2 +1,3 @@
-puts 'Hello World'
-print "This is just a test"
+puts 'Hello there'
+print "This is just a Ruby programming language test"
+puts " - works just fine"
